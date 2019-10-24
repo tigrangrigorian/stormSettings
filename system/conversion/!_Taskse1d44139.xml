@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Nano-PC\Desktop\VOLO\!_Tasks\.idea\!_Tasks.iml" timestamp="1563509456387" />
+    <file path="C:\Users\Nano-PC\Desktop\VOLO\!_Tasks\.idea\misc.xml" timestamp="1563509456412" />
+    <file path="C:\Users\Nano-PC\Desktop\VOLO\!_Tasks\.idea\modules.xml" timestamp="1563509456421" />
+    <file path="C:\Users\Nano-PC\Desktop\VOLO\!_Tasks\.idea\workspace.xml" timestamp="1564935115502" />
+  </project-files>
+</conversion>
+

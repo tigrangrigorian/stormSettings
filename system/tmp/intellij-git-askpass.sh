@@ -1,0 +1,2 @@
+#!/bin/sh
+"C:/Program Files/JetBrains/WebStorm 2019.1.3/jbr/bin/java" -cp "C:/Program Files/JetBrains/WebStorm 2019.1.3/plugins/git4idea/lib/git4idea-rt.jar;C:/Program Files/JetBrains/WebStorm 2019.1.3/lib/xmlrpc-2.0.1.jar;C:/Program Files/JetBrains/WebStorm 2019.1.3/lib/commons-codec-1.13.jar;C:/Program Files/JetBrains/WebStorm 2019.1.3/lib/util.jar" org.jetbrains.git4idea.http.GitAskPassApp "$@"

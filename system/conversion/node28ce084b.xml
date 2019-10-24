@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Nano-PC\Desktop\node\.idea\misc.xml" timestamp="1570386565659" />
+    <file path="C:\Users\Nano-PC\Desktop\node\.idea\modules.xml" timestamp="1570386565664" />
+    <file path="C:\Users\Nano-PC\Desktop\node\.idea\node.iml" timestamp="1570386565652" />
+    <file path="C:\Users\Nano-PC\Desktop\node\.idea\workspace.xml" timestamp="1570386611848" />
+  </project-files>
+</conversion>
+
