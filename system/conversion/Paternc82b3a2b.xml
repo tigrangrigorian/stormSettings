@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\LabUser51\Desktop\internship-volo\Code\Patern\.idea\Patern.iml" timestamp="1571818983344" />
+    <file path="C:\Users\LabUser51\Desktop\internship-volo\Code\Patern\.idea\misc.xml" timestamp="1571818983391" />
+    <file path="C:\Users\LabUser51\Desktop\internship-volo\Code\Patern\.idea\modules.xml" timestamp="1571818983407" />
+    <file path="C:\Users\LabUser51\Desktop\internship-volo\Code\Patern\.idea\vcs.xml" timestamp="1571818983391" />
+    <file path="C:\Users\LabUser51\Desktop\internship-volo\Code\Patern\.idea\workspace.xml" timestamp="1571818983376" />
+  </project-files>
+</conversion>
+

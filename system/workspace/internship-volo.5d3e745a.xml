@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Code/ES6/1/package.json" />
+      <path value="$PROJECT_DIR$/Code/angular-basics/package.json" />
+      <path value="$PROJECT_DIR$/Code/angular/package.json" />
+      <path value="$PROJECT_DIR$/Code/node-youtube/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="627" />
+  </component>
+</project>

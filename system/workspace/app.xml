@@ -2,16 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="postcss.custom.media" />
-        <option value="postcss.custom.selector" />
-        <option value="vuex.store.index" />
-        <option value="vue.local.directives.index" />
-        <option value="vue.global.directives.index" />
-        <option value="vue.extends.binding.index" />
-        <option value="vue.mixin.binding.index" />
-        <option value="vue.options.index" />
-        <option value="vue.components.index" />
-        <option value="jade.mixin" />
         <option value="angular2.metadata.module.index" />
         <option value="angular2.metadata.function.index" />
         <option value="angular2.metadata.node.index" />
@@ -22,6 +12,14 @@
         <option value="angular2.source.directive.index" />
         <option value="angular2.source.pipe.index" />
         <option value="angular2.templateUrl.index" />
+        <option value="vuex.store.index" />
+        <option value="vue.local.directives.index" />
+        <option value="vue.global.directives.index" />
+        <option value="vue.extends.binding.index" />
+        <option value="vue.mixin.binding.index" />
+        <option value="vue.options.index" />
+        <option value="vue.components.index" />
+        <option value="jade.mixin" />
         <option value="js.amd.modules" />
         <option value="js.doc.modules" />
         <option value="js.gcl.modules" />

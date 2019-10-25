@@ -1,27 +1,26 @@
-1569518401782
-Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1569518401781
-TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401780
-SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1569518401779
-Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401778
-Handlebars/Mustache￿stub:com.intellij.psi.tree.IStubFileElementType,2061605592￿1569518401777
-Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1569518401776
-TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401775
-XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,23￿1569518401774
-Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401773
-Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1569518401772
-JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401771
-CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1569518401770
-CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401769
-HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1569518401768
-Angular2Html￿stub:org.angular2.lang.html.Angular2HtmlFileElementType,1889786854￿1569518401767
-Spacebars￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1569518401766
-ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401765
-Vue.js￿stub:org.jetbrains.vuejs.lang.html.parser.VueFileElementType,1889786852￿1569518401764
-JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,2061605596￿1569518401763
-ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401762
-Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,20￿1569518401761
-PostCSS￿stub:org.intellij.plugins.postcss.psi.PostCssFileElementType,32￿1569518401760
-EJS￿stub:com.jetbrains.lang.ejs.psi.EjsTokenTypes$EjsStubFileElementType,2061605593￿1569518401759
-Jade￿stub:com.jetbrains.plugins.jade.psi.JadeFileElementType,2061605592￿1569518401758
-JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1569518401757
-Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1569518401756
+1571659357892
+Handlebars/Mustache￿stub:com.intellij.psi.tree.IStubFileElementType,2061605560￿1571659357891
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357890
+Jade￿stub:com.jetbrains.plugins.jade.psi.JadeFileElementType,2061605560￿1571659357889
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,2061605564￿1571659357888
+EJS￿stub:com.jetbrains.lang.ejs.psi.EjsTokenTypes$EjsStubFileElementType,2061605561￿1571659357887
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1571659357886
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1571659357885
+Vue.js￿stub:org.jetbrains.vuejs.lang.html.parser.VueFileElementType,1889786852￿1571659357884
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357883
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1571659357882
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357881
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357880
+Angular2Html￿stub:org.angular2.lang.html.Angular2HtmlFileElementType,1889786854￿1571659357879
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,23￿1571659357878
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357877
+Spacebars￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1571659357876
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357875
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,20￿1571659357874
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357873
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357872
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1571659357871
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1571659357870
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1571659357869
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,1889786852￿1571659357868
+HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1571659357867
