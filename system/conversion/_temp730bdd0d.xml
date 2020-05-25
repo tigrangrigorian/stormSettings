@@ -1,0 +1,13 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Projects\GithHub\vuejs\_temp\.idea\misc.xml" timestamp="1583480639543" />
+    <file path="D:\Projects\GithHub\vuejs\_temp\.idea\04_directive.iml" timestamp="1583480639535" />
+    <file path="D:\Projects\GithHub\vuejs\_temp\.idea\modules.xml" timestamp="1583480639546" />
+    <file path="D:\Projects\GithHub\vuejs\_temp\.idea\vcs.xml" timestamp="1583480639540" />
+    <file path="D:\Projects\GithHub\vuejs\_temp\.idea\workspace.xml" timestamp="1583763083447" />
+  </project-files>
+</conversion>

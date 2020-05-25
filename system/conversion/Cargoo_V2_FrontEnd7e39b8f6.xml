@@ -1,0 +1,13 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Projects\Cargoo\Cargoo_V2_FrontEnd\.idea\workspace.xml" timestamp="1586275489595" />
+    <file path="D:\Projects\Cargoo\Cargoo_V2_FrontEnd\.idea\misc.xml" timestamp="1583151213536" />
+    <file path="D:\Projects\Cargoo\Cargoo_V2_FrontEnd\.idea\modules.xml" timestamp="1583151213544" />
+    <file path="D:\Projects\Cargoo\Cargoo_V2_FrontEnd\.idea\vcs.xml" timestamp="1583151213530" />
+    <file path="D:\Projects\Cargoo\Cargoo_V2_FrontEnd\.idea\Cargoo_V2_FrontEnd.iml" timestamp="1583151213511" />
+  </project-files>
+</conversion>

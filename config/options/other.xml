@@ -1,19 +1,26 @@
 <application>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="10.13.0" last-modified="1540870714000" />
+      <version-cache version="13.9.0" last-modified="1582034894000" />
     </local-interpreter>
   </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60169494" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="MarketplacePluginsSearchHistory" value="one&#10;on&#10;o&#10;icon&#10;ico" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="code style&#10;code sty&#10;code st&#10;code s&#10;code" />
+    <property name="MarketplacePluginsSearchHistory" value="v&#10;ve&#10;vet&#10;vetu&#10;vetur" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="lint&#10;nodejs&#10;eslin&#10;code style&#10;cod" />
     <property name="WebStorm.disableSafeWrite" value="true" />
     <property name="WebStorm.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/internship-volo/Code/angular-test&#10;C:/Users/LabUser51/Desktop/internship-volo/Code/angular&#10;C:/Users/LabUser51/Desktop/internship-volo/Code/angular-basics" />
-    <property name="file.gist.reindex.count" value="28617" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="evlsprt3.193" value="14" />
+    <property name="file.chooser.recent.files" value="D:/Projects/GithHub/vuejs/04_directive&#10;D:/Projects/GithHub/vuejs/02_vue-base&#10;D:/Projects/GithHub/vuejs/01_vue-fast-course&#10;D:/Projects/GithHub/vuejs/03_teory&#10;D:/Projects/GithHub/vuejs&#10;D:/Projects/Cargoo/Cargoo_V2_FrontEnd" />
+    <property name="file.gist.reindex.count" value="322" />
+    <property name="fileTypeChangedCounter" value="53" />
     <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.self.update.started.for.build" value="WS-193.6911.28" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
-    <property name="ts.lib.d.ts.version" value="3.5.2" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
   </component>
 </application>

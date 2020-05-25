@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/01_vue-fast-course/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/01_vue-fast-course/node_modules" />
+    <handled-path value="$PROJECT_DIR$/03_slot/node_modules" />
+    <handled-path value="$PROJECT_DIR$/04_directive/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/01_vue-fast-course/package.json" />
+      <path value="$PROJECT_DIR$/03_slot/package.json" />
+      <path value="$PROJECT_DIR$/04_directive/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="87" />
+  </component>
+  <component name="YarnPnpManager">
+    <pnp-files />
+  </component>
+</project>

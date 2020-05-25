@@ -1,91 +1,231 @@
 <application>
   <component name="RecentDirectoryProjectsManager">
-    <option name="recentPaths">
-      <list>
-        <option value="$USER_HOME$/Desktop/internship-volo/Code/angular-test" />
-        <option value="$USER_HOME$/Desktop/internship-volo/Code/angular" />
-        <option value="$USER_HOME$/Desktop/internship-volo/Code/angular-basics" />
-        <option value="$USER_HOME$/Desktop/internship-volo" />
-        <option value="$USER_HOME$/Desktop/internship-volo/Code/Patern" />
-        <option value="$USER_HOME$/Desktop/internship-volo/Code" />
-      </list>
-    </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/Desktop/internship-volo/Code/angular-test" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/Desktop/internship-volo/Code/angular-test" />
-    <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Desktop/internship-volo">
+        <entry key="C:\Users\tigran.grigoryan\WebstormProjects\untitled">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YZSZT4xCaGzhjMVro9txTP0hLW">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1571993326730" />
-              <option name="buildTimestamp" value="1569296710457" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395158709" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583151206691" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/internship-volo/Code">
+        <entry key="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YeuFSosGz5dt4hYtLn0ZNwGc9I">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1571734371793" />
-              <option name="buildTimestamp" value="1569296723772" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395127249" />
+              <frame x="953" y="0" width="974" height="1040" extendedState="7" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583321006045" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/internship-volo/Code/Patern">
+        <entry key="D:\Projects\GithHub\vuejs\01_vue-fast-course">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YeZfVmJjwa1Lloh3BnhM2BJoro">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1571818989219" />
-              <option name="buildTimestamp" value="1569296706922" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395108755" />
+              <frame x="953" y="0" width="974" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583405035189" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/internship-volo/Code/angular">
+        <entry key="D:\Projects\GithHub\vuejs\02_vue-base">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YfHrehToNPsSovoVr0S67p7QIo">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1572006833742" />
-              <option name="buildTimestamp" value="1569296710457" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395108755" />
+              <frame x="952" y="-8" width="976" height="1056" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583405054522" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/internship-volo/Code/angular-basics">
+        <entry key="D:\Projects\GithHub\vuejs\03_teory">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YhZzbmMPnAaTCOW4oGMOpbydvq">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1572006084461" />
-              <option name="buildTimestamp" value="1569296710457" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395152634" />
+              <frame x="928" y="0" width="999" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583477754341" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Desktop/internship-volo/Code/angular-test">
+        <entry key="D:\Projects\GithHub\vuejs">
           <value>
-            <RecentProjectMetaInfo>
-              <option name="build" value="WS-192.6817.13" />
-              <option name="productionCode" value="WS" />
+            <RecentProjectMetaInfo projectWorkspaceId="1YeZ9cH4bplLM2qNMLGvPzj6Pip">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1572007489216" />
-              <option name="buildTimestamp" value="1569296710457" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395150799" />
+              <frame x="737" y="0" width="1190" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583480512473" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\vuejs\04_directive">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YkJPER5AmjbEchbnDvWcr4PWDA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395150799" />
+              <frame x="737" y="0" width="1190" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583480632146" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\tigran.grigoryan\Desktop\internship-volo-master\internship-volo-master\Code\HTTPRequest">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YtEG7UA1cB9gmnmJaqk7z49e6I">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395132869" />
+              <frame x="756" y="0" width="1171" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583753391784" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\vuejs\_temp">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YkJPER5AmjbEchbnDvWcr4PWDA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395131675" />
+              <frame x="921" y="0" width="1006" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583759613423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\tigran.grigoryan\Desktop\Vue practice before ep3">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Yw6iRWFHixEbKnGsDtlgT7gs3P">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395114366" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583841436675" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\vuejs_crm\vue_crm">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Yvc8ewEpGU1jXEMLFElGEn97K2">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395143382" />
+              <frame x="953" y="0" width="974" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583842065498" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\tigran.grigoryan\AppData\Local\Temp\history.html">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YwVi4N8OIn12PZzEQwreK7L6Kb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395146226" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583853767794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\tigran.grigoryan\AppData\Local\Temp\index.html">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YwVmFPBoBnl1iAEDEsdeCCVKGV">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395119864" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583853801447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\vuejs_crm\crm">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Yw9gReB5CXnBGrh0fDvmUZg9zm">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6494.34" />
+              <option name="buildTimestamp" value="1581395111338" />
+              <frame x="973" y="0" width="954" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1583911395575" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\vuejs_crm">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Z170yGqBk7yixFYLEoLdbSfjp9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6911.28" />
+              <option name="buildTimestamp" value="1584547286414" />
+              <frame x="-1152" y="123" width="1174" height="1040" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586119185956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\Cargoo\Cargoo_V2_FrontEnd">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1YZXhAiEKcFSqJ43mWACp2FTaGi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6911.28" />
+              <option name="buildTimestamp" value="1584547293078" />
+              <frame x="256" y="188" width="976" height="1040" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586275250007" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Projects\GithHub\crm">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1ZypwdRfKQ8RjgRtWu1pp7UJQK3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.6911.28" />
+              <option name="buildTimestamp" value="1584547293078" />
+              <frame x="-7" y="0" width="883" height="1047" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1586275250007" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="D:\Projects\GithHub\crm" />
+        <option value="D:\Projects\Cargoo\Cargoo_V2_FrontEnd" />
+        <option value="D:\Projects\GithHub\vuejs_crm" />
+        <option value="D:\Projects\GithHub\vuejs_crm\crm" />
+        <option value="C:\Users\tigran.grigoryan\AppData\Local\Temp\index.html" />
+        <option value="C:\Users\tigran.grigoryan\AppData\Local\Temp\history.html" />
+        <option value="D:\Projects\GithHub\vuejs_crm\vue_crm" />
+        <option value="C:\Users\tigran.grigoryan\Desktop\Vue practice before ep3" />
+        <option value="D:\Projects\GithHub\vuejs\_temp" />
+        <option value="C:\Users\tigran.grigoryan\Desktop\internship-volo-master\internship-volo-master\Code\HTTPRequest" />
+        <option value="D:\Projects\GithHub\vuejs\04_directive" />
+        <option value="D:\Projects\GithHub\vuejs" />
+        <option value="D:\Projects\GithHub\vuejs\03_teory" />
+        <option value="D:\Projects\GithHub\vuejs\02_vue-base" />
+        <option value="D:\Projects\GithHub\vuejs\01_vue-fast-course" />
+        <option value="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins" />
+        <option value="C:\Users\tigran.grigoryan\WebstormProjects\untitled" />
+      </list>
     </option>
   </component>
 </application>

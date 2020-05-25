@@ -1,0 +1,12 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins\.idea\misc.xml" timestamp="1583315282920" />
+    <file path="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins\.idea\workspace.xml" timestamp="1583321413773" />
+    <file path="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins\.idea\modules.xml" timestamp="1583315282925" />
+    <file path="C:\Users\tigran.grigoryan\Desktop\Vue Crash Course 50 mins\.idea\Vue Crash Course 50 mins.iml" timestamp="1583315282911" />
+  </project-files>
+</conversion>

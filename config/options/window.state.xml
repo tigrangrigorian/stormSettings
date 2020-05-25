@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="655" y="119" />
+    <location key="find.popup.-1600.0.1600.900" x="-1055" y="98" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="845" height="182" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="845" height="182" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="845" height="182" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="845" height="182" />
+    <size key="find.popup.0.0.1920.1080" width="734" height="805" />
+    <size key="GridCell.Tab.0.left.-1600.0.1600.900" width="1579" height="273" />
+    <size key="GridCell.Tab.0.center.-1600.0.1600.900" width="1579" height="273" />
+    <size key="GridCell.Tab.0.right.-1600.0.1600.900" width="1579" height="273" />
+    <size key="GridCell.Tab.0.bottom.-1600.0.1600.900" width="1579" height="273" />
+    <size key="find.popup.-1600.0.1600.900" width="611" height="665" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-7" y="0" width="883" height="1047" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="184" key="FileChooserDialogImpl" timestamp="1583148674111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="184" key="FileChooserDialogImpl/0.0.1920.1040" timestamp="1583148674111" />
+  </component>
+</application>
